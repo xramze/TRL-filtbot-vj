@@ -2,10 +2,10 @@
   <img src="https://envs.sh/AHG.jpg" alt="TRL-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  TRL FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+TRL+Filter+Bot!)
 </p>
 
 ## Main Feature 
