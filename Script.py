@@ -5,7 +5,7 @@
 class script(object):
     START_TXT = """<b>☺️ ʜᴇʏ ᴅᴜᴅᴇ {} ♥️ 
 
-ᴍʏ ɴᴀᴍᴇ <ahref=https://t.me/{}>{}</a>
+ᴍʏ ɴᴀᴍᴇ <ahref=https://t.me/{}>{}</a></blockquote>
 
 👇ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ👇
 
