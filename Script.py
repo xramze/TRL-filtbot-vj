@@ -5,7 +5,7 @@
 class script(object):
     START_TXT = """<b>☺️ ʜᴇʏ ᴅᴜᴅᴇ {} ♥️ 
 
-ᴍʏ ɴᴀᴍᴇ <ahref=https://t.me/{}>{}</a></blockquote>
+ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/TamilRockers_Filterbot>༒ ᴛᴀᴍɪʟ ʀᴏᴄᴋᴇʀs ғɪʟᴛᴇʀ ʙᴏᴛ ༒</a></blockquote>
 
 👇ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ👇
 
