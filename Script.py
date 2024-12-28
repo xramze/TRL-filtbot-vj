@@ -11,7 +11,7 @@ class script(object):
 
 ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ!
 
-<blockquote> 〽️ Powered by <a href=t.me/itsz_ram>𝐈𝛕ᷟ‌𝚣ꙴ 𑐊‌𑂞ဖᮀ™</a></a></blockquote></b>"""
+<blockquote> 〽️ Powered by - <a href=t.me/itsz_ram>𝐈𝛕ᷟ‌𝚣ꙴ 𑐊‌𑂞ဖᮀ™</a></a></blockquote></b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
