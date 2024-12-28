@@ -166,7 +166,7 @@ if 'DYNO' in environ:
     ON_KOYEB = True
 else:
     ON_KOYEB = True 
-URL = environ.get("URL", "https://tamilrockersbot.koyeb.app/")
+URL = environ.get("URL", "https://tamilrockerslinkzz.koyeb.app/")
 
 
 # Rename Info : If True Then Bot Rename File Else Not
