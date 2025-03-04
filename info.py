@@ -128,7 +128,7 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'papajiurl.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '331509401d5ae5ac1f10523729138ff2bc6c76e4')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/TamilRockers_Tutorial/10') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/TamilRockers_Tutorial/11') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
 # Others
